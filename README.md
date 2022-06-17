@@ -9,6 +9,6 @@ whyuenaclefebvre/whyuenaclefebvre is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![whyuenaclefebvre's Github Stats](https://github-readme-stats.vercel.app/api?username=Isaacwhyuenac)](//whyuenaclefebvre.top)
+[![whyuenaclefebvre's Github Stats](https://github-readme-stats.vercel.app/api?username=whyuenaclefebvre)](//whyuenaclefebvre.top)
 
 ![](https://komarev.com/ghpvc/?username=whyuenaclefebvre)
